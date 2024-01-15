@@ -1,1 +1,1 @@
-archivo de texto para crear repositorio local
+Este archivo esta en un repositorio que no contiene un archivo README
